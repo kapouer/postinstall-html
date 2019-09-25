@@ -24,6 +24,8 @@
   "dependencies": {
     "jsdom": "^15.1.1",
     "postinstall": "^0.5.1",
+    "postinstall-css": "^0.5.1",
+    "postinstall-js": "^0.5.1",
     "worker-nodes": "^1.6.1"
   }
 }
