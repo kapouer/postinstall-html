@@ -1,0 +1,29 @@
+{
+  "name": "postinstall-html",
+  "version": "0.5.0",
+  "description": "postinstall command that bundles from html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapouer/postinstall-html.git"
+  },
+  "keywords": [
+    "postinstall",
+    "bundle",
+    "dom"
+  ],
+  "author": "Jérémy Lal <kapouer@melix.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kapouer/postinstall-html/issues"
+  },
+  "homepage": "https://github.com/kapouer/postinstall-html#readme",
+  "dependencies": {
+    "jsdom": "^15.1.1",
+    "postinstall": "^0.5.1",
+    "worker-nodes": "^1.6.1"
+  }
+}
